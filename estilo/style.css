@@ -4,6 +4,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+/*Mudei a fonte3 pq n rodava no navegador*/
 :root{
     --fonte1: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
     --fonte2: 'Passion One', 'cursive';
